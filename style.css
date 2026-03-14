@@ -385,8 +385,7 @@ body {
     margin: 20px auto;
     text-align: center;
     min-height: 90px;
-    display: flex;
-    justify-content: center;
+    display: block;
 }
 
 .ad-container-small {
@@ -394,6 +393,5 @@ body {
     margin: 20px auto;
     text-align: center;
     min-height: 50px;
-    display: flex;
-    justify-content: center;
+    display: block;
 }
